@@ -38,14 +38,14 @@ $(document).ready(function(){
             image: 'shoes2.jpg',
             name: 'Here Product Title',
             oldPrice: '$79.99',
-            price: '$49.99'
+            price: 20000
         },
         {
             id: 4,
             image: 'shoes3.jpg',
             name: 'Here Product Title',
             oldPrice: '$79.99',
-            price: '$49.99'
+            price: 20000
         }
     ];
 
@@ -55,28 +55,28 @@ $(document).ready(function(){
             image: 'shoes3.jpg',
             name: 'Here Product Title',
             oldPrice: '$79.99',
-            price: '$49.99'
+            price: 20000
         },
         {
             id: 6,
             image: 'shoes4.jpg',
             name: 'Here Product Title',
             oldPrice: '$79.99',
-            price: '$49.99'
+            price: 20000
         },
         {
             id: 7,
             image: 'shoes5.jpg',
             name: 'Here Product Title',
             oldPrice: '$79.99',
-            price: '$49.99'
+            price: 20000
         },
         {
             id: 8,
             image: 'shoes6.jpg',
             name: 'Here Product Title',
             oldPrice: '$79.99',
-            price: '$49.99'
+            price: 20000
         }
     ];
 
